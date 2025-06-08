@@ -12,6 +12,7 @@ Check out the live version [here](https://dimitrisboutakoglou.github.io/pricing-
 - Toggle switch to change between annual and monthly pricing
 - Modern, attractive design with custom CSS and Google Fonts
 - Simple and clean JavaScript for UI interactivity
+- Fully responsive for any type of device screen
 
 
 ## Attribution
